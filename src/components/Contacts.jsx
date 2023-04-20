@@ -17,7 +17,7 @@ const Contact = () => {
                     </sans>
         </p>
         <br />
-          <p className="py-1">You can use the links below to contact or schedule meeting with me. </p> <p> Ph - USA (1-312-925-6972), India (+91-9444053379)</p>
+          <p className="py-1">You can use the links below to contact or schedule meeting with me. </p> <p> Ph - USA (1-508-319-1261), India (+91-9444053379)</p>
         </div>
         <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-3 px-3 sm:px-0">
      
