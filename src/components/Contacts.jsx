@@ -30,12 +30,12 @@ const Contact = () => {
               <div className="flex items-center justify-center">
               <button 
                 className="w-2/3  m-3 duration-200 hover:scale-105"
-                onClick={event =>  window.open("https://docs.google.com/document/d/1AO0dpGlqmheZxWj2Yewx2VtsPWeZJfgJ/",'_blank','noreferrer')}
+                onClick={event =>  window.open("https://docs.google.com/document/d/1uBVWcUMApB72bdP_X_AoBZfZlV7XqCji/",'_blank','noreferrer')}
                 >Doc
                 </button>
                 <button 
                 className="w-2/3  m-3 duration-200 hover:scale-105"
-                onClick={event =>  window.open("https://drive.google.com/file/d/1WITV0h-1zAASe6wSV-rtZM1H2It6lkXv/",'_blank','noreferrer')}
+                onClick={event =>  window.open("https://drive.google.com/file/d/1HCl284S7OsDJ5D8ozu4lQ2XF2U8BBton/view",'_blank','noreferrer')}
                 >PDF
                 </button>
               </div>
