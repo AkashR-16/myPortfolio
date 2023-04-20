@@ -62,7 +62,7 @@ const SocialLinks = () => {
               <BsFillPhoneVibrateFill size={30} />
         </>
       ),
-      href: "tel:+1-312-925-6972",
+      href: "tel:+1-508-319-1261",
       style: "rounded-br-md",
       download: true,
     },
